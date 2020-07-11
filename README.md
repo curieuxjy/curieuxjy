@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on ...
-* test1
+### 🔭 I’m currently interested in ...
+* Reinforcement learning
+* Bionics
+* Robotics
 
 ### 🌱 I’m currently learning ...
-* test2
+* Machine learning/Deep learning
+* Reinforcement learning
+* Languages: Python, C++, Go, Julia
+* ROS2
 
 <div align=center>
 	
