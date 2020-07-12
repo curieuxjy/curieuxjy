@@ -4,6 +4,7 @@
 * Reinforcement learning
 * Bionics
 * Robotics
+* Quantum computing
 
 ### 🌱 I’m currently learning ...
 * Machine learning/Deep learning
