@@ -17,7 +17,7 @@
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jungyeon.lee.5667/)](https://www.facebook.com/jungyeon.lee.5667/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
-[![Research Gate Badge](http://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoWidth=20&link=https://www.researchgate.net/profile/Jungyeon_Lee5)](https://www.researchgate.net/profile/Jungyeon_Lee5)
+[![Research Gate Badge](http://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoHight=20&link=https://www.researchgate.net/profile/Jungyeon_Lee5)](https://www.researchgate.net/profile/Jungyeon_Lee5)
 
 </div>
 
