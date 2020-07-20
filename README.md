@@ -22,3 +22,7 @@
 
 </div>
 
+https://img.shields.io/github/languages/count/beygee/survive
+https://img.shields.io/github/languages/top/beygee/survive
+
+[![Languages](https://img.shields.io/github/languages/count/beygee/survive?style=flat-square)](https://img.shields.io/github/languages/count/beygee/survive)
