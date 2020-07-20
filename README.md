@@ -25,4 +25,4 @@
 https://img.shields.io/github/languages/count/beygee/survive
 https://img.shields.io/github/languages/top/beygee/survive
 
-[![Languages](https://img.shields.io/github/languages/count/curieuxjy/*)](https://img.shields.io/github/languages/count/curieuxjy/*)
+[![Languages](https://img.shields.io/github/languages/count/curieuxjy/all)](https://img.shields.io/github/languages/count/curieuxjy/all)
