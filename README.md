@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning ...
 * Machine learning/Deep learning
 * Reinforcement learning
-* Languages: Python, C++, Go, Julia, R
+* Languages: Python, C++, Go, Julia, R, Matlab
 * ROS2
 
 <div align=center>
