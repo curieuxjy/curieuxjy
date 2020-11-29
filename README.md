@@ -6,11 +6,12 @@
 * Robotics
 * Quantum computing
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ... 
 * Machine learning/Deep learning
 * Reinforcement learning
 * Languages: Python, C++, Go, Julia, R, Matlab
 * ROS2
+📕 advanced 📗 intermediate 📘 beginner 📚 colorful
 
 <div align=center>
 	
