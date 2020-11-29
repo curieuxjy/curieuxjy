@@ -11,7 +11,7 @@
 * Reinforcement learning
 * Languages: Python, C++, Go, Julia, R, Matlab
 * ROS2
-📕 advanced 📗 intermediate 📘 beginner 📚 colorful
+> 📕 advanced 📗 intermediate 📘 beginner 📚 colorful
 
 <div align=center>
 	
