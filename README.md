@@ -2,8 +2,7 @@
 
 ### 🔭 I’m currently interested in ...
 * Reinforcement learning
-* Bionics
-* Robotics
+* Bioinspired-Robots
 * Quantum computing
 
 ### 🌱 I’m currently learning ... 
