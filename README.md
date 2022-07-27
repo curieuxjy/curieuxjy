@@ -8,8 +8,8 @@
 ### 🌱 I’m currently learning ... 
 * Machine learning/Deep learning
 * Reinforcement learning
-* Languages: Python, C++, Go, Julia, R, Matlab
-* ROS2
+* Languages: Python >> C++ > Matlab > Julia
+
 > 📕 advanced 📗 intermediate 📘 beginner 📚 colorful
 
 <div align=center>
