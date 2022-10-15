@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" width="15%" height="15%" src="./data/icon.gif">
 
 ### 🔭 I’m currently interested in ...
 * Reinforcement learning
@@ -10,7 +10,7 @@
 * Reinforcement learning
 * Languages: Python >> C++ > Matlab > Julia
 
-> 📕 advanced 📗 intermediate 📘 beginner 📚 colorful
+> If you want to know more details about my experiences, you can find them in my [CURRICULUM VITAE📃](https://drive.google.com/file/d/1a-q7JUfFW58ScA9GtKwkiv1nZfOUbr94/view?usp=sharing)
 
 <div align=center>
 	
