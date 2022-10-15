@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" width="35%" height="35%" src="./data/icon.gif">
+### Hi there 👋 <img align="right" width="40%" height="40%" src="./data/screen.gif">
 
 ### 🔭 I’m currently interested in ...
 * Reinforcement learning
