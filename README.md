@@ -1,8 +1,8 @@
-### Hi there 👋 
+### *Hi there* 👋 
 
-<div align=right>
+<p align=right>
 <img align="right" width="40%" src="./data/screen.gif">
-</div>
+</p>
 
 #### I’m currently learning & interested in ...
 * **M**achine learning | **D**eep learning | **R**einforcement learning
@@ -11,7 +11,7 @@
 
 > *If you want to know more details about my experiences, you can find them in my* [CURRICULUM VITAE 📃](https://drive.google.com/file/d/1a-q7JUfFW58ScA9GtKwkiv1nZfOUbr94/view?usp=sharing)
 
-<div align=left>
+<p align=left>
 	
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
@@ -19,14 +19,14 @@
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
 
-</div>
+</p>
 
-<div align=right>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="30%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=curieuxjy&show_icons=true&locale=en&theme=github_dark" alt="curieuxjy" width="28%" />
-</div>
+<p align=right>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="33%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=curieuxjy&show_icons=true&locale=en&theme=github_dark" alt="curieuxjy" width="31.5%" />
+</p>
 
-<div align=left>
+
 <h4 align="left">Languages and Tools:</h3>
 <p align="left" > 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
@@ -43,4 +43,3 @@
 	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
 </p>
-</div>
