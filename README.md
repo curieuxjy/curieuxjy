@@ -1,31 +1,29 @@
 ### *Hi there* 👋 
 	
 <p align=right>	
-<img align="right" width="40%" src="./data/screen.gif">
+<img align="right" width="35%" src="./data/screen.gif">
 </p>
 
-<p align="left"> 
-
+<p align=left>
+	
 #### I’m currently learning & interested in ...
 * **M**achine learning | **D**eep learning | **R**einforcement learning
 * **B**ioinspired-Robots | **S**imulations for Robotics
 * **Q**uantum computing
-	
-> *If you want to know more details about my experiences, you can find them in my* [CURRICULUM VITAE 📃](https://drive.google.com/file/d/1a-q7JUfFW58ScA9GtKwkiv1nZfOUbr94/view?usp=sharing)
 	
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
-
-<details>
-<summary><h5>Streak Stats 🔥</></summary>
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="40%" />
-</details>
-
+[![CV Badge](https://img.shields.io/badge/CurriculumVitae-47A141?style=flat-square&logo=overleaf&logoColor=white&link=[https://www.linkedin.com/in/curieuxjy/](https://www.overleaf.com/read/rxbyjzvjvmvd))]([https://www.linkedin.com/in/curieuxjy/](https://www.overleaf.com/read/rxbyjzvjvmvd))
 </p>
 
+<details >
+<summary><b>Streak Stats 🔥</></summary>
+<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="35%" />
+</details>
+	
 <h4 align="left">Languages and Tools:</h4>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="3.5%" height="3.5%"/> </a> 
@@ -45,3 +43,5 @@
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="3.5%" height="3.5%"/> </a> 
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%" height="3.5%"/> </a>
 </p>
+
+
