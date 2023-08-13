@@ -16,7 +16,7 @@
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
-[![CV Badge](https://img.shields.io/badge/CurriculumVitae-47A141?style=flat-square&logo=overleaf&logoColor=white&link=[https://www.linkedin.com/in/curieuxjy/](https://www.overleaf.com/read/rxbyjzvjvmvd))](https://www.overleaf.com/read/rxbyjzvjvmvd)
+[![CV Badge](https://img.shields.io/badge/CurriculumVitae-47A141?style=flat-square&logo=overleaf&logoColor=white&link=[https://www.linkedin.com/in/curieuxjy/](https://www.overleaf.com/read/rxbyjzvjvmvd))](https://www.overleaf.com/read/ctdpsgvjdfby)
 </p>
 
 <details >
