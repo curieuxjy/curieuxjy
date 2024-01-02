@@ -1,7 +1,7 @@
 ### *Hi there* 👋 
 	
 <p align=right>	
-<img align="right" width="35%" src="./data/profile.png">
+<img align="right" width="25%" src="./data/profile.png">
 </p>
 
 <p align=left>
