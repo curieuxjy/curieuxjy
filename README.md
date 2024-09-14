@@ -23,7 +23,7 @@
 
 <details >
 <summary><b>Streak Stats 🔥</></summary>
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="35%" />
+<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="40%" />
 </details>
 	
 <h4 align="left">Skills and Tools:</h4>
@@ -45,6 +45,8 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="3.5%" height="3.5%"/> </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="3.5%" height="3.5%"/> </a> 
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%" height="3.5%"/> </a>
+<a href="https://quarto.org/"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="quarto" width="3.5%" height="3.5%"/> </a>
+
 </p>
 
 
