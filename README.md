@@ -1,16 +1,11 @@
 ### *Hi there* 👋 
 	
 <p align=right>	
-<img align="right" width="30%" src="./data/profile.png">
+<a href="https://curieuxjy.github.io/projects.html"> <img align="right" width="30%" src="./data/github_profile.png"> </a>
 </p>
 
 <p align=left>
-	
-#### I’m currently learning & interested in ...
-* **M**achine learning | **D**eep learning | **R**einforcement learning
-* **B**ioinspired-Robots | **S**imulations for Robotics
-* **Q**uantum computing
-	
+
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
@@ -18,6 +13,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
+	
+#### My Interest Fields are
+* **M**achine learning | **D**eep learning | **R**einforcement learning
+* **B**ioinspired-Robots | **S**imulations for Robotics
+* **O**n-device AI | **Q**uantum computing
+
 </p>
 
 <details >
@@ -25,12 +26,13 @@
 <img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="35%" />
 </details>
 	
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Skills and Tools:</h4>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="3.5%" height="3.5%"/> </a> 
 <a> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf20/omniverse/refresh-open-beta/nvidia-omniverse-isaac-sim-icon-128.png" alt="omniverse" width="3.5%" height="3.5%"/> </a>
 <a> <img src="https://avatars.githubusercontent.com/u/6955508?s=200&v=4" alt="pybullet" width="3.5%" height="3.5%"/> </a>
 <a href="https://pytorch.org/"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="3.5%" height="3.5%"/> </a> 
+<a href="https://ros.org/"> <img src="https://avatars.githubusercontent.com/u/29735195?s=280&v=4" alt="ros2" width="3.5%" height="3.5%"/> </a>
 <a href="https://www.tensorflow.org"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="3.5%" height="3.5%"/> </a> 
 <a href="https://opencv.org/"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="3.5%" height="3.5%"/> </a> 
 <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="3.5%" height="3.5%"/> </a> 
