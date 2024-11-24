@@ -1,7 +1,7 @@
 ### *Hi there* 👋 
 	
 <p align=right>	
-<a href="https://curieuxjy.github.io/about.html"> <img align="right" width="35%" src="./data/github_profile.png"> </a>
+<a href="https://curieuxjy.github.io/about.html"> <img align="right" width="35%" src="./data/blog_index2.gif"> </a>
 </p>
 
 <p align=left>
