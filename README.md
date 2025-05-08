@@ -21,10 +21,6 @@
 
 </p>
 
-<details >
-<summary><b>Streak Stats 🔥</></summary>
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=curieuxjy&theme=github_dark" alt="curieuxjy" width="40%" />
-</details>
 	
 <h4 align="left">Skills and Tools:</h4>
 
