@@ -7,12 +7,14 @@
 <p align=left>
 
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
+[![Defense Badge](https://img.shields.io/badge/Defense-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAF1_05Jbmw/HriAfzV_RHy3zHZWFr6Aag/view?utm_content=DAF1_05Jbmw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3ff92cd3b)
+[![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
-[![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
+
 	
 #### My Interest Fields are
 * **M**achine learning | **D**eep learning | **R**einforcement learning
