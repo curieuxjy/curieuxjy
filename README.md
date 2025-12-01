@@ -1,10 +1,7 @@
 ### *Hi there* 👋 
 	
-<p align=right>	
-<a href="https://curieuxjy.github.io/about.html"> <img align="right" width="35%" src="./data/blog_index2.gif"> </a>
-</p>
+<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=00c3db&w=600&t=n&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=0b4975&ct=cdd4d9'/></a>
 
-<p align=left>
 
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Defense Badge](https://img.shields.io/badge/Defense-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAF1_05Jbmw/HriAfzV_RHy3zHZWFr6Aag/view?utm_content=DAF1_05Jbmw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3ff92cd3b)
@@ -21,10 +18,8 @@
 * **B**ioinspired-Robots | **S**imulations for Robotics
 * **O**n-device AI | **Q**uantum computing
 
-</p>
-
 	
-<h4 align="left">Skills and Tools:</h4>
+#### Skills and Tools:
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="3.5%"/> </a>
 <a> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf20/omniverse/refresh-open-beta/nvidia-omniverse-isaac-sim-icon-128.png" alt="omniverse" width="3.5%"/> </a>
@@ -44,7 +39,5 @@
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="3.5%"/> </a>
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%"/> </a>
 <a href="https://quarto.org/"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="quarto" width="3.5%"/> </a>
-
-</p>
 
 
