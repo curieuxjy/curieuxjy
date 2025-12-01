@@ -1,17 +1,15 @@
 ### *Hi there* 👋 
 	
-<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=00c3db&w=700&t=n&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=0b4975&ct=cdd4d9'/></a>
-
 
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
 [![Defense Badge](https://img.shields.io/badge/Defense-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAF1_05Jbmw/HriAfzV_RHy3zHZWFr6Aag/view?utm_content=DAF1_05Jbmw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3ff92cd3b)
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
+[![Resume KR](https://img.shields.io/badge/Resume-KR-d14836?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-034EA2?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume-en.pdf)
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
-[![Resume KR](https://img.shields.io/badge/Resume-KR-034EA2?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume.pdf)
-[![Resume EN](https://img.shields.io/badge/Resume-EN-034EA2?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume-en.pdf)
 <!--
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
 -->
@@ -44,4 +42,4 @@
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%"/> </a>
 <a href="https://quarto.org/"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="quarto" width="3.5%"/> </a>
 
-
+<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=700&t=tt&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=ffffff&ct=808080'/></a>
