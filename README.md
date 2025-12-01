@@ -1,6 +1,6 @@
 ### *Hi there* 👋 
 	
-<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=00c3db&w=600&t=n&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=0b4975&ct=cdd4d9'/></a>
+<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=00c3db&w=700&t=n&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=0b4975&ct=cdd4d9'/></a>
 
 
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
@@ -10,7 +10,11 @@
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
+[![Resume KR](https://img.shields.io/badge/Resume-KR-034EA2?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-034EA2?style=flat-square&logo=readdotcv&logoColor=white&link=resume/resume.pdf)](https://curieuxjy.github.io/resume/resume-en.pdf)
+<!--
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
+-->
 
 	
 #### My Interest Fields are
