@@ -16,7 +16,7 @@
 
 	
 #### My Interest Fields are
-* **M**achine learning | **D**eep learning | **R**einforcement learning
+* **M**achine learning | **D**eep learning | **R**einforcement learning | **P**hysical AI
 * **B**ioinspired-Robots | **S**imulations for Robotics
 * **O**n-device AI | **Q**uantum computing
 
@@ -42,4 +42,4 @@
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%"/> </a>
 <a href="https://quarto.org/"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="quarto" width="3.5%"/> </a>
 
-<a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=700&t=tt&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=ffffff&ct=808080'/></a>
+<!-- <a href='https://mapmyvisitors.com/web/1c0zk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=700&t=tt&d=w_TeJiwbvCfFyZ0dPOrLIdVwWFumXWn3fCcf3Egyhho&co=ffffff&ct=808080'/></a> -->
